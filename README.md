@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffbb00,100:fef6cd&height=180&text=오리날다&animation=scaleIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 개발자? </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
